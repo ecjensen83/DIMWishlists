@@ -1,7 +1,0 @@
-title: this is a test wishlist
-description: test wishlist for Community Wishlist
-
-// Fatebringer
-//notes:Community Wishlist (PvP / Controller)
-dimwishlist:item=2171478765&perks=-3661387068,3142289711,2946784966,47981717#notes:|tags:controller,pvp
-dimwishlist:item=-2171478765#notes:trash gun
